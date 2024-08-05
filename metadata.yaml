@@ -1,0 +1,45 @@
+_repo: Early-western-travels-1748-1846-volume-7_73930
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Ross, Alexander
+    birthdate: 1783
+    deathdate: 1856
+    gutenberg_agent_id: '57278'
+    url: http://www.gutenberg.org/2009/agents/57278
+    wikipedia: https://en.wikipedia.org/wiki/Alexander_Ross_(fur_trader)
+  editor:
+    agent_name: Thwaites, Reuben Gold
+    alias: Thwaites, R. G. (Reuben Gold)
+    birthdate: 1853
+    deathdate: 1913
+    gutenberg_agent_id: '33780'
+    url: http://www.gutenberg.org/2009/agents/33780
+    wikipedia: https://en.wikipedia.org/wiki/Reuben_Gold_Thwaites
+description: ''
+gutenberg_issued: '2024-06-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73930'
+language: en
+pgterms:marc904: http://www.archive.org/details/earlywesterntr07thwa
+pgterms:marc905: 20110930214403thwaites
+pgterms:marc906: '1904'
+pgterms:marc907: US
+production_note: Richard Tonsing, Greg Bergquist, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive/American Libraries.)
+publication_note: '  $aCleveland :$bThe Arthur H. Clark Company, $c1904.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'West (U.S.) -- Description and travel'
+- !lcsh 'United States -- Description and travel'
+- !lcsh 'Mississippi River Valley -- Description and travel'
+- !lcc 'F590.3'
+- GITenberg
+tableOfContents: Ross's Adventures of the first settlers on the Oregon or Columbia
+  River, 1810-1813.
+title: Early western travels, 1748-1846, volume 7
+url: http://www.gutenberg.org/ebooks/73930
